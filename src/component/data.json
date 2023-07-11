@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "Maharashtra",
+      "date": "29/5/2023"
+    },
+    {
+      "id": "2",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "mp",
+      "date": "30/4/2023"
+    },
+    {
+      "id": "3",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "offline",
+      "location": "uttrpradesh",
+      "date": "23/4/2022"
+    },{
+      "id": "4",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "offline",
+      "location": "Maharashtra",
+      "date": "29/4/2023"
+    },
+    {
+      "id": "5",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "jammu",
+      "date": "1/2/2002"
+    },
+    {
+      "id": "6",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "Maharashtra",
+      "date": "29/4/2023"
+    },
+    {
+      "id": "7",
+      "actions": "running",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "Maharashtra",
+      "date": "29/4/2023"
+    },
+    {
+      "id": "8",
+      "actions": "close",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "jammu",
+      "date": "29/4/2023"
+    },
+    {
+      "id": "9",
+      "actions": "close",
+      "status": "server request",
+      "serviceCategory": "laptop",
+      "location": "Bhopal",
+      "date": "29/4/2023"
+    }
+  ]
+  
